@@ -1,12 +1,13 @@
 RENCANA KONTEN WPU
 
 -JAVACRIP
-*ES6
-*FREE WORKS
-^Vue
+  *ES6
+  *FREE WORKS
+    ^Vue
+    ^react
 -struktur data dasar
 -VLOG
 -PHP FREMEWORKS
-^lavarel
+  ^lavarel
 -INTERVIEW
 -python
